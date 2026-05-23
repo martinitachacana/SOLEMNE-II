@@ -1,5 +1,39 @@
 # SOLEMNE-II
 # Sistema Visual Bauhaus — Kontakte 2
+Autor: Martina Chacana
+
+[p5.js link editable](https://editor.p5js.org/martinulia/sketches/XarAHmQB-)
+
+
+[Archivo js en repositorio github](sketch.js)
+
+
+
+**Diagrama de flujo**
+
+
+![Diagrama de flujo sistema generativo interactivo](diagrama.png)
+
+
+
+
+
+**Documentación del proceso P5.JS**
+
+
+
+
+
+![Documentación del Proceso](Foto01.png)
+![Documentación del Proceso](Foto02.png)
+![Documentación del Proceso](Foto03.png)
+![Documentación del Proceso](Foto04.png)
+![Documentación del Proceso](Foto05.png)
+![Documentación del Proceso](Foto06.png)
+![Documentación del Proceso](Foto07.png)
+![Documentación del Proceso](Foto08.png)
+
+
 
 
 ## Información del proyecto
@@ -97,19 +131,5 @@ Luego random() genera pequeñas variaciones para producir movimiento dinámico.
 - Cambios constantes en la composición
 - Sensación de sistema vivo y reactivo
 
-**Diagrama de flujo**
 
-
-![Diagrama de flujo sistema generativo interactivo](diagrama.png)
-
-
-**Fotos del Proceso P5.JS**
-![Fotos del Proceso](Foto01.png)
-![Fotos del Proceso](Foto02.png)
-![Fotos del Proceso](Foto03.png)
-![Fotos del Proceso](Foto04.png)
-![Fotos del Proceso](Foto05.png)
-![Fotos del Proceso](Foto06.png)
-![Fotos del Proceso](Foto07.png)
-![Fotos del Proceso](Foto08.png)
 
