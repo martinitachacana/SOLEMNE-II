@@ -1,5 +1,7 @@
 # SOLEMNE-II
 # Sistema Visual Bauhaus — Kontakte 2
+
+
 ## Información del proyecto
 Es un sistema visual dinámico e interactivo realizado en p5.js inspirado en el afiche Kontakte 2 de Karlheinz Stockhausen y la estética Bauhaus/HfG Ulm. El sistema utiliza reglas simples de repetición modular para generar movimiento y variaciones visuales en tiempo real. 
 
@@ -99,3 +101,15 @@ Luego random() genera pequeñas variaciones para producir movimiento dinámico.
 
 
 ![Diagrama de flujo sistema generativo interactivo](diagrama.png)
+
+
+**Fotos del Proceso P5.JS**
+![Fotos del Proceso](Foto01.png)
+![Fotos del Proceso](Foto02.png)
+![Fotos del Proceso](Foto03.png)
+![Fotos del Proceso](Foto04.png)
+![Fotos del Proceso](Foto05.png)
+![Fotos del Proceso](Foto06.png)
+![Fotos del Proceso](Foto07.png)
+![Fotos del Proceso](Foto08.png)
+
