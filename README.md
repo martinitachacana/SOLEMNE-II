@@ -77,6 +77,7 @@ En vez de copiar solamente la estética del afiche, el sistema utiliza reglas, r
 
   **Referentes visuales, teóricos e históricos**
 
+ ![Referente](referente p5.png)
  - Kontakte 2 Karlheinz Stockhausen (AUTORA)
 - Afiche basado en estructuras modulares, repetición geométrica y organización visual racional.
 - Bauhaus
