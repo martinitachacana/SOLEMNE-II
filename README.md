@@ -94,3 +94,8 @@ Luego random() genera pequeñas variaciones para producir movimiento dinámico.
 - Vibración visual
 - Cambios constantes en la composición
 - Sensación de sistema vivo y reactivo
+
+**Diagrama de flujo**
+
+
+![Diagrama de flujo sistema generativo interactivo](diagrama.png)
